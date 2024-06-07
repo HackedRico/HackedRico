@@ -1,6 +1,6 @@
-# HackedRico 
+# 👾 HackedRico 
 
-## Overview
+## 🌌 Overview
 
 
 
@@ -23,8 +23,8 @@
 <br />
 
 --- 
-### 🚀 Github Stats
+### 📊 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HackedRico&count_private=true&show_icons=true&include_all_commits=true)
 
 ---
-### Projects Currently Working On
+### 🚀 Projects Currently Working On
