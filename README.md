@@ -1,14 +1,13 @@
-### 👾 HackedRico 
-<Summary>
-  As a dedicated student at the University of Maryland, majoring in Computer Science and Cybersecurity, I am passionate about making a significant impact in the realm of cybersecurity. 
-  My hands-on experience spans adversary emulation, infrastructure automation, and AWS Cloud, equipping me with the skills to tackle modern security challenges. 
-  Eager to delve into various aspects of cybersecurity, I aspire to contribute to a safer digital world by exploring and innovating in this dynamic field.
-</Summary>
-
----
+# 👾 HackedRico 
 
 ### 🌌 Overview
 
+  <p>
+    As a dedicated student at the University of Maryland, majoring in Computer Science and Cybersecurity, I am passionate about making a significant impact in the realm of cybersecurity. 
+    My hands-on experience spans adversary emulation, infrastructure automation, and AWS Cloud, equipping me with the skills to tackle modern security challenges. 
+    Eager to delve into various aspects of cybersecurity, I aspire to contribute to a safer digital world by exploring and innovating in this dynamic field.
+  </p>
+  
 ---
 
 ### 👨🏽‍💻 Languages and Technologies
@@ -31,12 +30,17 @@
 <br />
 
 ---
+### 🛠️ Currently Learning
+- Full Stack Development
+
+
+---
+
+<!-- This would be incorporated in the future when I get more stats. -->
 
 ### 📊 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HackedRico&count_private=true&show_icons=true&include_all_commits=true)
 
 ---
-### Certifications
 
----
 ### 🚀 Projects Currently Working On
