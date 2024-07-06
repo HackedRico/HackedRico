@@ -32,8 +32,11 @@
 ---
 ### 🛠️ Currently Learning
 - Full Stack Development
-- Comptia Pentesting
+- Comptia Pentesting+
 
+---
+### 🚀 Projects Worked On
+- (MITRE-ATT&CK-Evaluations)[https://github.com/attackevals/ael]
 
 ---
 <!-- Username has to be Lower case -->
@@ -44,5 +47,3 @@
 <!-- ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hackedrico&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
-
-### 🚀 Projects Currently Working On
