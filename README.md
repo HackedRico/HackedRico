@@ -36,7 +36,7 @@
 
 ---
 ### 🚀 Projects Worked On
-- (MITRE-ATT&CK-Evaluations)[https://github.com/attackevals/ael]
+- [MITRE-ATT&CK-Evaluations ](https://github.com/attackevals/ael)
 
 ---
 <!-- Username has to be Lower case -->
@@ -45,5 +45,3 @@
 ![Commits](https://github-readme-stats.vercel.app/api?username=hackedrico&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HackedRico&theme=aura&hide_border=true)<br/> -->
 <!-- ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hackedrico&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
----
