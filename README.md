@@ -1,13 +1,14 @@
 # 👾 HackedRico 
 
 ### 🌌 Overview
+* Computer Science Major with a Cybersecurity Minor at the University of Maryland 🐢
+* Passionate about Cybersecurity and dedicated to making it a lifelong pursuit 🔒
 
-  <p>
-    As a dedicated student at the University of Maryland, majoring in Computer Science and Cybersecurity, I am passionate about making a significant impact in the realm of cybersecurity. 
-    My hands-on experience spans adversary emulation, infrastructure automation, and AWS Cloud, equipping me with the skills to tackle modern security challenges. 
-    Eager to delve into various aspects of cybersecurity, I aspire to contribute to a safer digital world by exploring and innovating in this dynamic field.
-  </p>
-  
+<p> 
+  My hands-on experience spans adversary emulation, infrastructure automation, and AWS Cloud, equipping me with the skills to tackle modern security challenges. 
+  Eager to delve into various aspects of cybersecurity, I aspire to contribute to a safer digital world by exploring and innovating in this dynamic field.
+</p>
+
 ---
 
 ### 👨🏽‍💻 Languages and Technologies
@@ -38,10 +39,10 @@
 ### 🚀 Projects Worked On
 - [MITRE-ATT&CK-Evaluations ](https://github.com/attackevals/ael)
 
----
+<!-- --- -->
 <!-- Username has to be Lower case -->
 
-### 📊 Github Stats
-![Commits](https://github-readme-stats.vercel.app/api?username=hackedrico&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- ### 📊 Github Stats -->
+<!-- ![Commits](https://github-readme-stats.vercel.app/api?username=hackedrico&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HackedRico&theme=aura&hide_border=true)<br/> -->
 <!-- ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hackedrico&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
