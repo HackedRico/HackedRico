@@ -1,17 +1,18 @@
 # 👾 HackedRico 
 
-### 🌌 Overview
-* Computer Science Major with a Cybersecurity Minor at the University of Maryland 🐢
-* Passionate about Cybersecurity and dedicated to making it a lifelong pursuit 🔒
+🐢 Computer Science Major with a Cybersecurity Minor at the University of Maryland
+  
+🔒 Passionate about Cybersecurity and dedicated to making it a lifelong pursuit
 
 <p> 
   My hands-on experience spans adversary emulation, infrastructure automation, and AWS Cloud, equipping me with the skills to tackle modern security challenges. 
   Eager to delve into various aspects of cybersecurity, I aspire to contribute to a safer digital world by exploring and innovating in this dynamic field.
 </p>
 
----
+&nbsp;
 
 ### 👨🏽‍💻 Languages and Technologies
+---
 
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
@@ -30,15 +31,24 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
+&nbsp;
+
+### 🚀 Projects Worked On
 ---
+
+- [MITRE-ATT&CK-Evaluations ](https://github.com/attackevals/ael)
+
+&nbsp;
+
 ### 🛠️ Currently Learning
+---
+
 - Full Stack Development
 - Comptia Pentesting+
 
----
-### 🚀 Projects Worked On
-- [MITRE-ATT&CK-Evaluations ](https://github.com/attackevals/ael)
 
+<!-- Cool Assets 
+<!-- 🌌 Overview -->
 <!-- --- -->
 <!-- Username has to be Lower case -->
 
