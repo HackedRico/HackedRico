@@ -7,7 +7,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-- 🐢 I'm a Sophmore at the University of Maryland majoring in Computer Science - Cybersecurity and minoring Statistics
+- 🐢 I'm a Sophmore at the University of Maryland majoring in Computer Science - Cybersecurity and minoring in Statistics
 - 🔒 I'm passionate about Cybersecurity and dedicated to making it a lifelong pursuit
 - 🛠️ I’m currently working on HackTheBox and CTFs
 - 📖 I’m currently learning Web Application Security and Security Automation
