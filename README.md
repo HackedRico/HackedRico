@@ -9,6 +9,7 @@
 
 - 🐢 I'm a Sophmore at the University of Maryland majoring in Computer Science - Cybersecurity and minoring in Statistics
 - 🔒 I'm passionate about Cybersecurity and dedicated to making it a lifelong pursuit
+- 🤝 I'm actively contributing to open-source projects and supporting others with their innovative products
 - 🛠️ I’m currently working on HackTheBox and CTFs
 - 📖 I’m currently learning Web Application Security and Security Automation
 
