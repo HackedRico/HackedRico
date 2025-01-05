@@ -5,9 +5,18 @@
 ---
 -->
 
-</div>
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/HackedRico)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+### About Me
+
+</div>
+
 
 - 🐢 I'm a Sophmore at the University of Maryland majoring in Computer Science - Cybersecurity and minoring in Statistics
 - 🔒 I'm passionate about Cybersecurity and dedicated to making it a lifelong pursuit
@@ -15,10 +24,11 @@
 - 📖 I'm studying Web Application Security and Security Automation
 - 🤝 I'm actively contributing to open-source projects and supporting others with their innovative products
 
+
+<div align="center">
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<!-- ### 👨🏽‍💻 Languages and Technologies -->
-<div align="center">
   
 ### Languages And Technologies
 
@@ -57,6 +67,12 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+### 🔜 Stay tuned for more!
+
+</div>
+
+
+
 
 <!-- BELOW ARE OLD ASSETS --> 
 <!-- 
@@ -94,6 +110,8 @@
 
 <!-- Cool Assets 
 <!-- 🌌 Overview -->
+
+<!-- ### 👨🏽‍💻 Languages and Technologies -->
 
 <!-- --- -->
 <!-- Username has to be Lower case -->
