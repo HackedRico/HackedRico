@@ -5,13 +5,15 @@
 ---
 -->
 
+</div>
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 - 🐢 I'm a Sophmore at the University of Maryland majoring in Computer Science - Cybersecurity and minoring in Statistics
 - 🔒 I'm passionate about Cybersecurity and dedicated to making it a lifelong pursuit
+- 🛠️ I'm tackling challenges on HackTheBox, CTFs, and LeetCode to hone my skills
+- 📖 I'm studying Web Application Security and Security Automation
 - 🤝 I'm actively contributing to open-source projects and supporting others with their innovative products
-- 🛠️ I’m currently working on HackTheBox and CTFs
-- 📖 I’m currently learning Web Application Security and Security Automation
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -27,10 +29,10 @@
   <img alt="Bash" width="40px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" />
   <img alt="C" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="C++" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="CSS" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="CSS" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img alt="Docker" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<!--   <img alt="GitHub" width="40px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
-  <img alt="Grafana" width="40px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" /> -->
+  <img alt="GitHub" width="40px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
+  <img alt="Grafana" width="40px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" />
   <img alt="HTML" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="Java" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="JavaScript" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -47,15 +49,32 @@
 
 ###  Github Analytics
   
+![Commits](https://github-readme-stats.vercel.app/api?username=hackedrico&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HackedRico&theme=nightowl&hide_border=true)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hackedrico&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
+<!-- BELOW ARE OLD ASSETS --> 
+<!-- 
+## Extras
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=HackedRico&theme=nightowl" alt="LeetCode Badges"/> 
+-->
+
+
+<!-- OLD COLOR THEME
+###  Github Analytics
+  
 ![Commits](https://github-readme-stats.vercel.app/api?username=hackedrico&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HackedRico&theme=aura&hide_border=true)
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hackedrico&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<!-- BELOW ARE OLD ASSETS --> 
+-->
 
 <!--
 ### 🚀 Projects Worked On
