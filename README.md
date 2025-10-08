@@ -8,8 +8,10 @@
 <div align="center">
   
 ![Profile-View-Count](https://komarev.com/ghpvc/?username=HackedRico&color=blueviolet&style=for-the-badge)
+<!-- 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/HackedRico)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() 
+-->
 
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -19,11 +21,14 @@
 </div>
 
 
-- 🐢 I'm a Sophmore at the University of Maryland majoring in Computer Science - Cybersecurity and minoring in Statistics
+- 🐢 I'm a Junior at the University of Maryland, majoring in Computer Science - Cybersecurity and minoring in Business
 - 🔒 I'm passionate about Cybersecurity and dedicated to making it a lifelong pursuit
 - 🛠️ I'm tackling challenges on HackTheBox, CTFs, and LeetCode to hone my skills
+
+<!--
 - 📖 I'm studying Web Application Security and Security Automation
 - 🤝 I'm actively contributing to open-source projects and supporting others with their innovative products
+-->
 
 
 <div align="center">
