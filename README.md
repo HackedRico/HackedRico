@@ -76,7 +76,7 @@
 
 ###  Github Analytics
   
-![Commits](https://github-readme-stats.vercel.app/api?username=hackedrico&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
+![Commits](https://github-readme-stats.vercel.app/api?username=hackedrico&theme=nightowl&hide_border=true&include_all_commits=true)
 
 <!---
 
