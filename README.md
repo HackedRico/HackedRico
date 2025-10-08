@@ -79,9 +79,9 @@
   
 ![Commits](https://github-readme-stats.vercel.app/api?username=hackedrico&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HackedRico&theme=nightowl&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=hackedrico&theme=nightowl&hide_border=true)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hackedrico&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hackedrico&theme=nightowl&hide_border=true&layout=compact)
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
