@@ -21,7 +21,7 @@
 </div>
 
 
-- 🐢 I'm a Junior at the University of Maryland, majoring in Computer Science - Cybersecurity and minoring in Business
+- 🐢 I'm a Junior at the University of Maryland (UMD), majoring in Computer Science - Cybersecurity and minoring in Business
 - 🔒 Driven by a deep passion for Cybersecurity, I’m dedicated to continuously growing and contributing in this field throughout my career.
 
 <!--
@@ -85,6 +85,10 @@
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hackedrico&theme=nightowl&hide_border=true&layout=compact)
 
 -->
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+🎓 Several of my private repositories are UMD course projects (OOJ, Computer Architectures, Computer Paradigms, etc.), available for employer review upon the professor’s permission.
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
