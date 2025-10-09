@@ -6,9 +6,9 @@
 -->
 
 <div align="center">
-  
-![Profile-View-Count](https://komarev.com/ghpvc/?username=HackedRico&color=blueviolet&style=for-the-badge)
+
 <!-- 
+![Profile-View-Count](https://komarev.com/ghpvc/?username=HackedRico&color=blueviolet&style=for-the-badge)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/HackedRico)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() 
 -->
