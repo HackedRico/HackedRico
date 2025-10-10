@@ -74,11 +74,12 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<!---
 ###  Github Analytics
   
 ![Commits](https://github-readme-stats.vercel.app/api?username=hackedrico&theme=nightowl&hide_border=true&include_all_commits=true)
 
-<!---
+
 
 ![Streak](https://streak-stats.demolab.com?user=hackedrico&theme=nightowl&hide_border=true)
 
