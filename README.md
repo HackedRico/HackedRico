@@ -90,8 +90,8 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-🎓 My private repositories contain UMD course projects (Object-Oriented Java, Computer Architecture, Computer Paradigms), as well as research and MVP development projects.
-🚀 Research and development of MVPs will be made public upon completion and approval.
+- 🎓 My private repositories contain UMD course projects (Object-Oriented Java, Computer Architecture, Computer Paradigms), as well as research and MVP development projects.
+- 🚀 Research and development of MVPs will be made public upon completion and approval.
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
