@@ -71,6 +71,7 @@
   <img alt="Jupyter Notebook" width="40px" style="padding-right:20px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" />
   -->
 </p>
+</div>
 
 <!---
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -88,11 +89,17 @@
 
 -->
 
+<div align="center">
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+  
+</div>
 
 - 🎓 My private repositories contain UMD course projects (Object-Oriented Java, Computer Architecture, Computer Paradigms), as well as research and MVP development projects.
 - 🚀 Research and development of MVPs will be made public upon completion and approval.
 
+<div align="center">
+  
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🔜 Stay tuned for more!
