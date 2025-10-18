@@ -95,8 +95,8 @@
   
 </div>
 
-- 🎓 My private repositories contain UMD course projects (Object-Oriented Java, Computer Architecture, Computer Paradigms), as well as research and MVP development projects.
-- 🚀 Research and development of MVPs will be made public upon completion and approval.
+- 🎓 My private repositories contain UMD course projects (Object-Oriented Java, Computer Architecture, Computer Paradigms), along with research and MVP development for organization-affiliated projects.
+<!-- - 🚀 Research and development of MVPs will be made public upon completion and approval. -->
 
 <div align="center">
   
