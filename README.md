@@ -21,7 +21,7 @@
 </div>
 
 
-- 🐢 I'm a Junior at the University of Maryland (UMD), majoring in Computer Science - Cybersecurity and minoring in Business
+- 🐢 I'm a Senior at the University of Maryland (UMD), majoring in Computer Science - Cybersecurity and minoring in Business
 - 🔒 Driven by a deep passion for Cybersecurity, I’m dedicated to continuously growing and contributing in this field throughout my career.
 
 <!--
