@@ -90,11 +90,14 @@
 
 -->
 
-<!-- <div align="center">
+<div align="center">
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-  
-</div> -->
+
+### ⭐ If you found anything helpful, consider starring a repo!<br>
+Feel free to open an issue or submit a PR. Contributions are always welcome.
+
+</div>
 
 <!-- - 🎓 My private repositories contain UMD course projects (Object-Oriented Java, Computer Architecture, Computer Paradigms), along with research and MVP development for organization-affiliated projects. --> 
 <!-- - 🚀 Research and development of MVPs will be made public upon completion and approval. -->
