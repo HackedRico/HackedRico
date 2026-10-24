@@ -23,7 +23,9 @@
   <!--
 - 🐢 I'm a Senior at the University of Maryland (UMD), majoring in Computer Science - Cybersecurity and minoring in Business
   -->
-- 🔒 Driven by a deep passion for Cybersecurity, I’m dedicated to continuously growing and contributing in this field throughout my career.
+- 🔒 Driven by a deep passion for Cybersecurity, I'm dedicated to continuously growing and contributing in this field throughout my career.
+- 🤖 Building AI systems for cybersecurity: securing with AI, and securing AI itself.
+- 🏆 8x hackathon winner and ambitious builder, always shipping the next idea.
 
 <!--
 - 🛠️ I'm tackling challenges on HackTheBox, CTFs, and LeetCode to hone my skills
@@ -37,42 +39,25 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
   
-### Languages And Technologies
+### 🚀 Projects
 
-<p align="center">
-  <img alt="Ansible" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
-  <img alt="AWS" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img alt="Azure" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <img alt="Docker" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="Terraform" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-
-  <img alt="C" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img alt="C++" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Java" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Python" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="CSS" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="HTML" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="JavaScript" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  
-  <img alt="Django" width="40px" style="padding-right:20px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" />
-  <img alt="Node JS" width="40px" style="padding-right:20px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" />
-  <img alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
-  <img alt="Bash" width="40px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" />
-  <img alt="Powershell" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-  <img alt="GitHub" width="40px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
-  <img alt="Linux" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-  <!--
-  <img alt="Grafana" width="40px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" />
-  <img alt="Packer" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/packer/packer-original-wordmark.svg" />
-  <img alt="MongoDB" width="40px" style="padding-right:20px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" />
-  <img alt="PostgreSQL" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-
-  <img alt="Jupyter Notebook" width="40px" style="padding-right:20px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" />
-  -->
-</p>
 </div>
+
+**🏆 Hackathon wins**
+
+- [Lilo](https://github.com/HackedRico/lilo-companion), LILO Hackathon 2026: first place overall
+- [NARA](https://github.com/HackedRico/obv-nara-box), Bitcamp 2026: Best Champion of Open Source, Neelbauer Agentic Revolution Award
+- [ThreatViz Defend](https://github.com/HackedRico/threat-viz-defend), hackUMBC 2026: Best Use of DigitalOcean, runner-up Cybersecurity Application
+- [FitCheck](https://github.com/HackedRico/FitCheck), Hacktoberfest UMD 2026: Best Use of Open-Source AI
+- [Mayday](https://github.com/israelo19/mayday), HopHacks 2026: SpaceXAI challenge, Grok API
+- [PoliSwipe](https://github.com/HackedRico/PoliSwipe), Anthropic x UMD 2026: Governance and Accessibility track
+- [StudentOS](https://github.com/HackedRico/StudentOS), hackUMBC Mini 2026: winner
+
+**🔓 Open source**
+
+- [CALDERA MCP plugin](https://github.com/mitre/mcp): maintaining the MCP plugin that lets LLM agents plan and run adversary emulation in CALDERA.
+- [Apache CALDERA (Incubating)](https://github.com/apache/caldera): supporting the move into the Apache Incubator as a PPMC member and committer.
+- [MITRE ATT&CK Evaluations](https://github.com/attackevals/ael): building the ranges and detection infrastructure the evaluations run on.
 
 <!---
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
