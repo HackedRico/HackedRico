@@ -58,7 +58,7 @@
 - [CALDERA MCP plugin](https://github.com/mitre/mcp): developed additional features for and maintained the MCP plugin that lets LLM agents plan and run adversary emulation in CALDERA.
 - [Apache CALDERA (Incubating)](https://github.com/apache/caldera): supported the move into the Apache Incubator, and now actively maintain it as a PPMC member and committer.
 - [MITRE ATT&CK Evaluations](https://github.com/attackevals/ael): building the ranges and detection infrastructure the evaluations run on.
-- Also reported bugs and proposed fixes to HashiCorp CDKTF, Ansible, the Terraform VirtualBox provider, and Claude Code.
+- Also reported bugs and proposed fixes to HashiCorp CDKTF, Ansible, the Terraform VirtualBox provider, and Claude Code, to list a few.
 
 <!---
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
