@@ -14,9 +14,9 @@
 -->
 
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
 
-### About Me
+### 🧑‍💻 About Me
 
 </div>
 
@@ -25,7 +25,7 @@
   -->
 - 🔒 Driven by a deep passion for Cybersecurity, I'm dedicated to continuously growing and contributing in this field throughout my career.
 - 🤖 Building AI systems for cybersecurity: securing with AI, and securing AI itself.
-- 🏆 8x hackathon winner and ambitious builder, always shipping the next idea.
+- 🛠️ 8x hackathon winner and ambitious builder, always shipping the next idea.
 
 <!--
 - 🛠️ I'm tackling challenges on HackTheBox, CTFs, and LeetCode to hone my skills
@@ -88,6 +88,7 @@ Feel free to open an issue or submit a PR. Contributions are always welcome.
 <!-- - 🎓 My private repositories contain UMD course projects (Object-Oriented Java, Computer Architecture, Computer Paradigms), along with research and MVP development for organization-affiliated projects. --> 
 <!-- - 🚀 Research and development of MVPs will be made public upon completion and approval. -->
 
+<!--
 <div align="center">
   
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -95,6 +96,7 @@ Feel free to open an issue or submit a PR. Contributions are always welcome.
 ### 🔜 Stay tuned for more!
 
 </div>
+-->
 
 
 
