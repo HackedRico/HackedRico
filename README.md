@@ -45,13 +45,20 @@
 
 **🏆 Hackathon wins**
 
-- [Lilo](https://github.com/HackedRico/lilo-companion), LILO Hackathon 2026: first place overall
-- [NARA](https://github.com/HackedRico/obv-nara-box), Bitcamp 2026: Best Champion of Open Source, Neelbauer Agentic Revolution Award
-- [ThreatViz Defend](https://github.com/HackedRico/threat-viz-defend), hackUMBC 2026: Best Use of DigitalOcean, runner-up Cybersecurity Application
-- [FitCheck](https://github.com/HackedRico/FitCheck), Hacktoberfest UMD 2026: Best Use of Open-Source AI
-- [Mayday](https://github.com/israelo19/mayday), HopHacks 2026: SpaceXAI challenge, Grok API
-- [PoliSwipe](https://github.com/HackedRico/PoliSwipe), Anthropic x UMD 2026: Governance and Accessibility track
-- [StudentOS](https://github.com/HackedRico/StudentOS), hackUMBC Mini 2026: winner
+- **[Lilo](https://github.com/HackedRico/lilo-companion)**, LILO Hackathon 2026: first place overall
+  - An AI desktop companion that ties each CS lecture to a real job posting, coaches you through practice problems only up to a limit you set, and cites every interview note it surfaces.
+- **[NARA](https://github.com/HackedRico/obv-nara-box)**, Bitcamp 2026: Best Champion of Open Source, Neelbauer Agentic Revolution Award
+  - An AI security-testing CLI that scans a codebase, plans a chain from the findings, and runs it against an isolated Docker sandbox, streaming the whole run live.
+- **[ThreatViz Defend](https://github.com/HackedRico/threat-viz-defend)**, hackUMBC 2026: Best Use of DigitalOcean, runner-up Cybersecurity Application
+  - Reads your code, draws it as a threat model, and quizzes you until you can defend the design at a whiteboard, keeping the map current as your coding agent works.
+- **[FitCheck](https://github.com/HackedRico/FitCheck)**, Hacktoberfest UMD 2026: Best Use of Open-Source AI
+  - Point your phone at a garment or paste a shop link and get a BUY, SKIP or TRY-WITH verdict weighed against your closet, the week's weather and your calendar, then see it on you.
+- **[Mayday](https://github.com/israelo19/mayday)**, HopHacks 2026: SpaceXAI challenge, Grok API
+  - An AI emergency-response coach that triages by voice, watches through the phone camera, and walks a bystander through first-aid steps until the ambulance arrives.
+- **[PoliSwipe](https://github.com/HackedRico/PoliSwipe)**, Anthropic x UMD 2026: Governance and Accessibility track
+  - A swipe-card app that turns civic engagement into a feed of real local bills and rallies, each tied to a real representative, with Claude drafting your email or answering questions in plain language.
+- **[StudentOS](https://github.com/HackedRico/StudentOS)**, hackUMBC Mini 2026: winner
+  - An AI student command center that unifies your schedule, deadlines, email, calendar and notes to tell you what to do next, draft emails, and generate flashcards and quizzes.
 
 **🔓 Open source**
 
